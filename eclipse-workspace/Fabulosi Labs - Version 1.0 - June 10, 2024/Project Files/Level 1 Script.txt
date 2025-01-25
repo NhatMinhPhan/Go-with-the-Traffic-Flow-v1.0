@@ -1,0 +1,24 @@
+Welcome to "Go with the Traffic Flow"!
+In this program, we're going to take a look at how AI can contribute to\ntraffic safety, specifically on the crossroads! First, we must...
+*Ring* *Ring*...
+Excuse me...
+Hello?
+Now?
+Is it urgent? If so then there's nothing to worry about. We'll be\nthere in a sec.
+Well, it seems like a town's in need of our help!
+Their traffic system's no longer able to handle the great influx of new\nresidents coming there recently, and they can't use all their traffic\npolice to monitor intersection traffic! Other stuff like monitoring\nspeeding should be taken care of as well!
+It won't be a piece of cake though...\nThey told me that they can only afford parts of the upgrade\nneeded, but they're willing to commit to it until the\nentirety of their traffic system gets updated.
+Oh! I must show you the ropes of what we're about to do first!\nSo strap in!
+Did you know that in 2019, there were\n36,096 traffic fatalities in the United States\naccording to the U.S. Department of Transportation?
+And did you know that in Las Vegas, every day one\nperson, especially a senior adult or someone with mobility\nissues, is unable to finish crossing to the other side\nof the crosswalk when the crossing light counts down?
+So the following is a simple interactive traffic simulation\nwhich we’re going to use.
+Here’s an intersection.
+We’ve got cars passing by and pedestrians walking by too!
+Here’s a traffic officer. Let’s see how he controls traffic here.
+We can have multiple officers controlling traffic at\nevery intersection, but there are other things that\ntraffic police must do like limiting speeding that\nshould be taken care of.
+So, these intersections must be taken care of by\nsomething else, like a traffic light.\nClick on the police officer to upgrade and click\n"Set Configuration".
+Here, you can see the data relevant to the intersection so\nthat you can manually set the first time. Whenever you’re ready,\nexit the popup window and click "Go"!
+Well would you look at that! The system doesn’t take\ninto account sudden changes in the pedestrians, and so\nsomeone didn’t manage to reach the other side of the road or\nwaiting times have increased!
+So, how should we tackle this?\nWell, let’s try artificial intelligence (AI)!\nTry upgrading the traffic light once more and set\nits configuration!
+Now, you’ll see a different popup window! It has initialization\nsettings, and also automatic changes needed! Try to play with them\nand see what works!
+Alright! Now we’re ready to get to work! Remember to keep track of\nthe budget and don’t forget to use the undo button\nat the bottom corner of the window! Good luck!
